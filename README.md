@@ -14,7 +14,7 @@ Follow these steps to set up a virtual environment and install the necessary dep
 1.  **Open your terminal.**
 2.  **Navigate to the project directory:**
     ```bash
-    cd /home/fernandokindermann/work/Privat/Anais
+    cd /home/[PROJECT_PATH]
     ```
 3.  **Create a virtual environment (optional but recommended):**
     ```bash
